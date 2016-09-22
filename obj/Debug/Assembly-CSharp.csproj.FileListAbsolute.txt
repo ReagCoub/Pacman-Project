@@ -1,0 +1,1 @@
+C:\Users\Baxter\Documents\Pacman Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
